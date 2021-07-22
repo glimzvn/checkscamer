@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ScamCheckPages/static/css/main.a189063f.chunk.css",
+    "main.js": "/ScamCheckPages/static/js/main.ed5a40b4.chunk.js",
+    "main.js.map": "/ScamCheckPages/static/js/main.ed5a40b4.chunk.js.map",
+    "runtime-main.js": "/ScamCheckPages/static/js/runtime-main.ad24073e.js",
+    "runtime-main.js.map": "/ScamCheckPages/static/js/runtime-main.ad24073e.js.map",
+    "static/js/2.bfc25276.chunk.js": "/ScamCheckPages/static/js/2.bfc25276.chunk.js",
+    "static/js/2.bfc25276.chunk.js.map": "/ScamCheckPages/static/js/2.bfc25276.chunk.js.map",
+    "index.html": "/ScamCheckPages/index.html",
+    "static/css/main.a189063f.chunk.css.map": "/ScamCheckPages/static/css/main.a189063f.chunk.css.map",
+    "static/js/2.bfc25276.chunk.js.LICENSE.txt": "/ScamCheckPages/static/js/2.bfc25276.chunk.js.LICENSE.txt",
+    "static/media/BrowserExtensionCTA.d2a4ec04.svg": "/ScamCheckPages/static/media/BrowserExtensionCTA.d2a4ec04.svg",
+    "static/media/CardBrainNodes.f16defe9.svg": "/ScamCheckPages/static/media/CardBrainNodes.f16defe9.svg",
+    "static/media/CardDocument.2d6431df.svg": "/ScamCheckPages/static/media/CardDocument.2d6431df.svg",
+    "static/media/CardWebsite.60dc62f4.svg": "/ScamCheckPages/static/media/CardWebsite.60dc62f4.svg",
+    "static/media/HeaderBanner.7540bf91.svg": "/ScamCheckPages/static/media/HeaderBanner.7540bf91.svg",
+    "static/media/LandingImage.fc4d0630.png": "/ScamCheckPages/static/media/LandingImage.fc4d0630.png",
+    "static/media/index.css": "/ScamCheckPages/static/media/Roboto-Thin.c38fab23.ttf",
+    "static/media/SMSCTA.06acb664.svg": "/ScamCheckPages/static/media/SMSCTA.06acb664.svg",
+    "static/media/Scam Landing Page_updated.e3126245.svg": "/ScamCheckPages/static/media/Scam Landing Page_updated.e3126245.svg",
+    "static/media/ScamCheckLogoTick.2610e17d.svg": "/ScamCheckPages/static/media/ScamCheckLogoTick.2610e17d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad24073e.js",
+    "static/js/2.bfc25276.chunk.js",
+    "static/css/main.a189063f.chunk.css",
+    "static/js/main.ed5a40b4.chunk.js"
+  ]
+}
